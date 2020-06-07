@@ -12,3 +12,4 @@ Use the .plf files or load the .svg files from /Part 1 and /Part 2 into your las
 Then connect them like in the 3D model here: [https://www.tinkercad.com/things/iQrbcces0ZO](https://www.tinkercad.com/things/iQrbcces0ZO)
 Once you are done, place your Latte Panda Alpha in the top right compartment (fan down, to get the best airflow) and your 2.5" HDDs/SSDs in the other compartments. Like in this photo:
 ![image](images/IMG_0505.jpeg "image")
+To connect the top left 2 HDDs to the Latte Panda Alpha - use a USB hub with an active power supply.
